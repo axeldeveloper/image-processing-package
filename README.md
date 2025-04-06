@@ -1,9 +1,9 @@
 # package_name
 
-Description. 
+Description.
 The package package_name is used to:
-	- 
-	-
+	-  find_difference
+	-  transfer_histogram
 
 ## Installation
 
@@ -21,7 +21,7 @@ file1_name.my_function()
 ```
 
 ## Author
-My_name
+Axel Alexander
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
